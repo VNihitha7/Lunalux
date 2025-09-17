@@ -125,7 +125,7 @@ Project created for **Smart India Hackathon** demonstration by our team.
 2.Katta Shahini
 3.Podile Pravallika
 4.Takkellapati Pooja
-5.Velpuru Ravichandrika
+5.Velpula Ravichandrika
 6.Velpuru Nihitha
 
 ```
